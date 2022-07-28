@@ -130,6 +130,10 @@ li {
 
 }
 
-span, strong{
-  color: black;
+strong, h3{
+  color: navy;
+}
+
+span{
+  color: #000;
 }
